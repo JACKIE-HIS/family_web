@@ -1,0 +1,8 @@
+.jumbotron {
+  background-image: url(../images/myfamily.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 60% auto;
+  color: white;
+  height: 60vh;
+}
